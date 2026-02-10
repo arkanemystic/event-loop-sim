@@ -16,6 +16,6 @@ A stress testing suite for the Event-Loop platform. It simulates concurrent driv
     ```bash
     node scripts/generate_seed_sql.js
 
-**Start the simulation:**
+4. **Start the simulation:**
     ```bash
     node index.js
