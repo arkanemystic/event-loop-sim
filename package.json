@@ -19,7 +19,7 @@
   "homepage": "https://github.com/arkanemystic/event-loop-sim#readme",
   "dependencies": {
     "axios": "^1.13.5",
-    "chalk": "^5.6.2",
+    "chalk": "^4.1.2",
     "dotenv": "^17.2.4",
     "faker": "^6.6.6",
     "socket.io-client": "^4.8.3"
